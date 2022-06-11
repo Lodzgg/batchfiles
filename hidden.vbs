@@ -1,3 +1,3 @@
 Set objShell = CreateObject("WScript.Shell")
-strCommand = "C:\yourfile.bat"
+strCommand = "C:\random.bat"
 objShell.Run strCommand, vbHide, TRUE
